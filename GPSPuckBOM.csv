@@ -1,4 +1,4 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";;;
 1;"J11";"U.FL_Molex_MCRF_73412-0110_Vertical";1;"GPS Antenna";;;
 2;"H4,H3,H2,H1";"MountingHole_3.2mm_M3_DIN965_Pad_TopBottom";4;"MountingHole_Pad";;;
 3;"U6";"InvenSense_QFN-24_4x4mm_P0.5mm";1;"MPU-6050";;;
